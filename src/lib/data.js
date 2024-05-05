@@ -28,7 +28,7 @@ export const Products =
             "id": 3,
             "ten": "SON DƯỠNG ADDICT LIP 006 BLACK",
             "hang": "DIOR",
-            "anh": "black.jpg",
+            "anh": "lipimage/black.jpg",
             "mau": "Đen",
             "coAr": true,
             "maAr": "public/lipAr/SonDen.deepar",
