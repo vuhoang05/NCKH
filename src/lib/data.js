@@ -4,7 +4,7 @@ export const Products =
             "id": 1,
             "ten": "SON HERMÈS ROSE ROSY LIP HỒNG",
             "hang": "BLACK ROUGE",
-            "anh": "lipimage/1.jpg",
+            "anh": "lipimage/pink.jpg",
             "mau": "Hồng",
             "coAr": true,
             "maAr": "public/lipAr/Pink.deepar",
