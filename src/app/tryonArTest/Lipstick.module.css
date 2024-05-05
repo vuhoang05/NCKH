@@ -1,0 +1,59 @@
+.lipstick_container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 100vh;
+    background: black;
+    color: white;
+}
+
+.top_bar {
+    display: flex;
+    justify-content: flex-start;
+    width: 100%;
+    height: 100%;
+    padding: 10px;
+    position: absolute;
+    top: 100px;
+
+}
+
+.home:hover {
+    color: #edff28;
+}
+
+.home {
+    margin: 30px;
+    color: white;
+    font-size: 20px;
+}
+
+.body {
+    background-color: black;
+}
+
+.logo {
+    padding-top: 70px;
+    font-size: 3rem;
+    margin-bottom: 2rem;
+    color: #ffffff;
+    font-family: 'Arial', sans-serif;
+
+}
+
+.deepar_preview {
+    width: 100%;
+    height: 700px;
+    border: 1px solid #ddd;
+    margin-bottom: 10px;
+}
+
+.information {
+    font-size: 25px;
+}
+
+.buy {
+    margin-top: 10px;
+    font-size: 25px;
+    text-decoration: underline;
+}

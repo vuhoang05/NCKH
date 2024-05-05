@@ -1,0 +1,32 @@
+.banner_image {
+    width: 100%;
+    /* Chiều rộng ảnh bằng 100% chiều rộng container */
+
+
+}
+
+.banner_image2 {
+    width: 100%;
+
+
+}
+
+.homepage {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+}
+
+
+.texthomepage {
+    font-size: 18px;
+    padding: 50px 500px 100px;
+
+
+}
+
+.spbanchaytext {
+    font-size: 25px;
+    text-align: center;
+}

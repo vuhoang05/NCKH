@@ -1,0 +1,70 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "ten": "Son Kem Lì Black Rouge Air Fit Velvet Tint Ver 8",
+            "hang": "Black Rouge",
+            "anh": "/lipimage/1.jpg",
+            "mau": "A12 - Đỏ Hồng San Hô",
+            "coAr": true,
+            "maAr": "sondo.deepar",
+            "gia": 239000,
+            "phanLoai": "son kem lì"
+        },
+        {
+            "id": 2,
+            "ten": "Son Kem Lì Romand Zero Velvet Tint Season 4",
+            "hang": "Romand",
+            "anh": "/lipimage/2.jpg",
+            "mau": "#22 - Gritty Peach",
+            "coAr": true,
+            "maAr": "pinkLip.deepar",
+            "gia": 185000,
+            "phanLoai": "son kem lì"
+        },
+        {
+            "id": 3,
+            "ten": "Son Merzy The First Velvet Tint V2",
+            "hang": "Merzy",
+            "anh": "/lipimage/3.jpg",
+            "mau": "V6 - Firenze",
+            "coAr": false,
+            "maAr": "pinkLip.deepar",
+            "gia": 185000,
+            "phanLoai": "son kem lì"
+        },
+        {
+            "id": 4,
+            "ten": "Son Bbia Last Velvet Lip Tint Ver 5",
+            "hang": "Bbia",
+            "mau": "#33 - Final Note",
+            "anh": "/lipimage/4.jpg",
+            "coAr": true,
+            "maAr": "pinkLip.deepar",
+            "gia": 159000,
+            "phanLoai": "son kem lì"
+        },
+        {
+            "id": 5,
+            "ten": "Son 3CE Velvet Lip Tint",
+            "hang": "3CE",
+            "mau": "Going Right",
+            "anh": "/lipimage/5.jpg",
+            "coAr": false,
+            "gia": 185000,
+            "maAr": "pinkLip.deepar",
+            "phanLoai": "son kem lì"
+        },
+        {
+            "id": 6,
+            "ten": "Son Espoir Couture Lip Crush Lipstick",
+            "hang": "Espoir",
+            "anh": "/lipimage/6.jpg",
+            "mau": "Real Red",
+            "coAr": false,
+            "maAr": "pinkLip.deepar",
+            "gia": 280000,
+            "phanLoai": "son thỏi"
+        }
+    ]
+}
